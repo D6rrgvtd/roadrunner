@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\1121\\loderunner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|c:\\users\\ktc\\desktop\\1121\\loderunner\\assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneChanger.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1121\\loderunner\\Assets\\script\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\SceneChanger.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1121\\loderunner\\Assets\\script\\SceneChanger.cs",
+              "RelativeToolTip": "Assets\\script\\SceneChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:37:10.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
