@@ -61,7 +61,13 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.41f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\HorizontalClimb.cs" />
     <Compile Include="Assets\script\SceneChanger.cs" />
+    <Compile Include="Assets\Playercontroller.cs" />
+    <Compile Include="Assets\pointgetplayer.cs" />
+    <Compile Include="Assets\point.cs" />
+    <Compile Include="Assets\EnemyClimbAI.cs" />
+    <Compile Include="Assets\gimmickmian.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

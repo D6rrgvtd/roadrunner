@@ -1,9 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\1121\\loderunner\\",
+  "WorkspaceRootPath": "D:\\User\\Documents\\1121\\loderunner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|c:\\users\\ktc\\desktop\\1121\\loderunner\\assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|d:\\user\\documents\\1121\\loderunner\\assets\\enemyclimbai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyclimbai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|d:\\user\\documents\\1121\\loderunner\\assets\\gimmickmian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\gimmickmian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|D:\\User\\Documents\\1121\\loderunner\\assets\\pointgetplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\pointgetplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|D:\\User\\Documents\\1121\\loderunner\\assets\\horizontalclimb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\horizontalclimb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|D:\\User\\Documents\\1121\\loderunner\\assets\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|D:\\User\\Documents\\1121\\loderunner\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|D:\\User\\Documents\\1121\\loderunner\\assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +43,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EnemyClimbAI.cs",
+              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\EnemyClimbAI.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyClimbAI.cs",
+              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\EnemyClimbAI.cs",
+              "RelativeToolTip": "Assets\\EnemyClimbAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T01:41:37.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HorizontalClimb.cs",
+              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\HorizontalClimb.cs",
+              "RelativeDocumentMoniker": "Assets\\HorizontalClimb.cs",
+              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\HorizontalClimb.cs",
+              "RelativeToolTip": "Assets\\HorizontalClimb.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAxwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:58:44.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "point.cs",
+              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\point.cs",
+              "RelativeDocumentMoniker": "Assets\\point.cs",
+              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\point.cs",
+              "RelativeToolTip": "Assets\\point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:03:19.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pointgetplayer.cs",
+              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\pointgetplayer.cs",
+              "RelativeDocumentMoniker": "Assets\\pointgetplayer.cs",
+              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\pointgetplayer.cs",
+              "RelativeToolTip": "Assets\\pointgetplayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:59:31.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gimmickmian.cs",
+              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\gimmickmian.cs",
+              "RelativeDocumentMoniker": "Assets\\gimmickmian.cs",
+              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\gimmickmian.cs",
+              "RelativeToolTip": "Assets\\gimmickmian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:54:21.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Playercontroller.cs",
+              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\Playercontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Playercontroller.cs",
+              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\Playercontroller.cs",
+              "RelativeToolTip": "Assets\\Playercontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:54:09.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SceneChanger.cs",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1121\\loderunner\\Assets\\script\\SceneChanger.cs",
+              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\script\\SceneChanger.cs",
               "RelativeDocumentMoniker": "Assets\\script\\SceneChanger.cs",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\1121\\loderunner\\Assets\\script\\SceneChanger.cs",
+              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\script\\SceneChanger.cs",
               "RelativeToolTip": "Assets\\script\\SceneChanger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T01:37:10.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T01:37:10.303Z"
             }
           ]
         }
