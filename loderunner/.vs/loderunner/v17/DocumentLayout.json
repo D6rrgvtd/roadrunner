@@ -1,34 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\User\\Documents\\1121\\loderunner\\",
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|d:\\user\\documents\\1121\\loderunner\\assets\\enemyclimbai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyclimbai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\19\\loderunner\\assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|d:\\user\\documents\\1121\\loderunner\\assets\\gimmickmian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\gimmickmian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|c:\\users\\ktc\\desktop\\19\\loderunner\\assets\\enemykill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\enemykill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|D:\\User\\Documents\\1121\\loderunner\\assets\\pointgetplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\pointgetplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\19\\loderunner\\assets\\clear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\clear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|D:\\User\\Documents\\1121\\loderunner\\assets\\horizontalclimb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\horizontalclimb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ktc\\Desktop\\19\\loderunner\\Library\\PackageCache\\com.unity.2d.tilemap@91afae292a4e\\Editor\\GridEditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.tilemap@91afae292a4e\\Editor\\GridEditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|D:\\User\\Documents\\1121\\loderunner\\assets\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\19\\loderunner\\assets\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|D:\\User\\Documents\\1121\\loderunner\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\19\\loderunner\\assets\\horizontalclimb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\horizontalclimb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\19\\loderunner\\assets\\enemyclimbai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyclimbai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\19\\loderunner\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|D:\\User\\Documents\\1121\\loderunner\\assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\19\\loderunner\\assets\\gimmickmian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\gimmickmian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\19\\loderunner\\assets\\pointgetplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA7EE0-BCBC-C25F-CD03-8C5626B5DC02}|Assembly-CSharp.csproj|solutionrelative:assets\\pointgetplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,30 +50,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnemyClimbAI.cs",
-              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\EnemyClimbAI.cs",
-              "RelativeDocumentMoniker": "Assets\\EnemyClimbAI.cs",
-              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\EnemyClimbAI.cs",
-              "RelativeToolTip": "Assets\\EnemyClimbAI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Enemykill.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\Enemykill.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemykill.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\Enemykill.cs",
+              "RelativeToolTip": "Assets\\Enemykill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T01:41:37.986Z",
+              "WhenOpened": "2026-01-09T01:23:11.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "clear.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\clear.cs",
+              "RelativeDocumentMoniker": "Assets\\clear.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\clear.cs",
+              "RelativeToolTip": "Assets\\clear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T01:00:28.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyClimbAI.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\EnemyClimbAI.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyClimbAI.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\EnemyClimbAI.cs",
+              "RelativeToolTip": "Assets\\EnemyClimbAI.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T01:41:37.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "HorizontalClimb.cs",
-              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\HorizontalClimb.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\HorizontalClimb.cs",
               "RelativeDocumentMoniker": "Assets\\HorizontalClimb.cs",
-              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\HorizontalClimb.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\HorizontalClimb.cs",
               "RelativeToolTip": "Assets\\HorizontalClimb.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAxwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-19T00:58:44.315Z"
             },
@@ -69,62 +106,75 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "point.cs",
-              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\point.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\point.cs",
               "RelativeDocumentMoniker": "Assets\\point.cs",
-              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\point.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\point.cs",
               "RelativeToolTip": "Assets\\point.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T01:03:19.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "pointgetplayer.cs",
-              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\pointgetplayer.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\pointgetplayer.cs",
               "RelativeDocumentMoniker": "Assets\\pointgetplayer.cs",
-              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\pointgetplayer.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\pointgetplayer.cs",
               "RelativeToolTip": "Assets\\pointgetplayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T00:59:31.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "gimmickmian.cs",
-              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\gimmickmian.cs",
-              "RelativeDocumentMoniker": "Assets\\gimmickmian.cs",
-              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\gimmickmian.cs",
-              "RelativeToolTip": "Assets\\gimmickmian.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAEBYwBYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SceneChanger.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\script\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\SceneChanger.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\script\\SceneChanger.cs",
+              "RelativeToolTip": "Assets\\script\\SceneChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T00:54:21.635Z",
+              "WhenOpened": "2025-11-21T01:37:10.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Playercontroller.cs",
-              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\Playercontroller.cs",
-              "RelativeDocumentMoniker": "Assets\\Playercontroller.cs",
-              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\Playercontroller.cs",
-              "RelativeToolTip": "Assets\\Playercontroller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "GridEditorUtility.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Library\\PackageCache\\com.unity.2d.tilemap@91afae292a4e\\Editor\\GridEditorUtility.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap@91afae292a4e\\Editor\\GridEditorUtility.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Library\\PackageCache\\com.unity.2d.tilemap@91afae292a4e\\Editor\\GridEditorUtility.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@91afae292a4e\\Editor\\GridEditorUtility.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAMwCMAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T00:54:09.993Z"
+              "WhenOpened": "2026-01-09T01:27:17.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SceneChanger.cs",
-              "DocumentMoniker": "D:\\User\\Documents\\1121\\loderunner\\Assets\\script\\SceneChanger.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\SceneChanger.cs",
-              "ToolTip": "D:\\User\\Documents\\1121\\loderunner\\Assets\\script\\SceneChanger.cs",
-              "RelativeToolTip": "Assets\\script\\SceneChanger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "gimmickmian.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\gimmickmian.cs",
+              "RelativeDocumentMoniker": "Assets\\gimmickmian.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\gimmickmian.cs",
+              "RelativeToolTip": "Assets\\gimmickmian.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T01:37:10.303Z"
+              "WhenOpened": "2025-12-12T00:54:21.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Playercontroller.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\Playercontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Playercontroller.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\19\\loderunner\\Assets\\Playercontroller.cs",
+              "RelativeToolTip": "Assets\\Playercontroller.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:54:09.993Z"
             }
           ]
         }

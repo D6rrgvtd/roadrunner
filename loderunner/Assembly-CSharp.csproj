@@ -65,7 +65,10 @@
     <Compile Include="Assets\script\SceneChanger.cs" />
     <Compile Include="Assets\Playercontroller.cs" />
     <Compile Include="Assets\pointgetplayer.cs" />
+    <Compile Include="Assets\clearseen.cs" />
+    <Compile Include="Assets\Enemykill.cs" />
     <Compile Include="Assets\point.cs" />
+    <Compile Include="Assets\clear.cs" />
     <Compile Include="Assets\EnemyClimbAI.cs" />
     <Compile Include="Assets\gimmickmian.cs" />
   </ItemGroup>

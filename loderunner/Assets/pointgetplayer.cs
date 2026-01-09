@@ -1,9 +1,9 @@
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class pointgetplayer : MonoBehaviour
+public class Pointgetplayer : MonoBehaviour
 {
-  public float pointnow=0;
+  public int pointnow=0;
 
     public void AddPointAndLog()
     {

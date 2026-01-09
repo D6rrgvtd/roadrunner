@@ -5,7 +5,7 @@ using UnityEngine.Scripting.APIUpdating;
 
 public class Playercontroller : MonoBehaviour
 {
-    private Rigidbody2D rigidbody2D;
+    private new Rigidbody2D rigidbody2D;
     public Animation move;
     public Animation stop;
     private float speed;
