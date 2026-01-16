@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class clear : MonoBehaviour
+public class Clear : MonoBehaviour
 {
     public float clearpoint = 3;
     public GameObject targetobject;
